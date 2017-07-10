@@ -1,5 +1,5 @@
 {
-    "name": "robclancy/presenter",
+    "name": "sztyup/presenter",
     "description": "Decorate your objects using presenters. Primarily to keep presentation logic out of your models.",
     "type": "library",
     "keywords": ["decorator", "presenter", "laravel"],
